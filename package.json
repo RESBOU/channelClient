@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/RESBOU/channelClient/issues"
   },
+  "dependencies": {
+    "leshdash": "git://github.com/leshy/leshdash.git",
+    "timeEvents": "git://github.com/resbou/timeEvents.git"
+  },
+    
   "homepage": "https://github.com/RESBOU/channelClient#readme"
 }
